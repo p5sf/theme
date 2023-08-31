@@ -9,7 +9,7 @@
 */
 
 :root {
-    /* body */
+    /* 整体 */
     --body-background-color: #ffffff;   /* 整个界面的背景颜色 */
     --select-text-bg-color: #ffafa3;    /* 选中文本时文本的背景颜色 */
 
